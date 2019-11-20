@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rider</string>
+    <string name="todo">TODO</string>
+    <string name="phone_number">Mobile Number</string>
+    <string name="register">Next</string>
+    <string name="sign_up_to_drive">Want to drive?</string>
+    <string name="registered_login">Registered? Login</string>
+    <string name="get_started">Get Started</string>
+    <string name="we_ll_send_a_text_to_verify_your_phone">We\'ll send a text to verify your phone</string>
+    <string name="red_car_pet_navigation">Red Car Pet Navigation</string>
+    <string name="textlogin">Login</string>
+    <string name="rememberPassword">Remember</string>
+
+    <string name="google_maps_key">AIzaSyAqpkAb5yjwCVG_YPPtFbO-K-gcabxpLWQ</string>
+
+</resources>

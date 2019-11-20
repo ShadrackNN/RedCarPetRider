@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695051922518",
+    "firebase_url": "https://rider-b69e3.firebaseio.com",
+    "project_id": "rider-b69e3",
+    "storage_bucket": "rider-b69e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695051922518:android:fee57b73da962b1faf9ff7",
+        "android_client_info": {
+          "package_name": "com.pylanconsultancy.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695051922518-579b8je7gd6qpdu91t4ntgjttr6b5opo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpkAb5yjwCVG_YPPtFbO-K-gcabxpLWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695051922518-579b8je7gd6qpdu91t4ntgjttr6b5opo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
